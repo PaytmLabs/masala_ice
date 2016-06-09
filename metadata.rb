@@ -1,0 +1,10 @@
+name             'masala_ice'
+maintainer       'Joe Hohertz'
+maintainer_email 'jhohertz@gmail.com'
+license          'Apache 2.0'
+description      'Installs/Configures masala_ice'
+long_description 'Installs/Configures masala_ice'
+version          '0.1.0'
+
+depends          'masala_base', '~> 0.1.0'
+depends          'ice', '~> 0.2.14'
